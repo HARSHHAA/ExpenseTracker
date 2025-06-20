@@ -37,7 +37,7 @@ All logic is implemented using basic Python.
 - `matplotlib` – for creating visual charts and pie plots
 
 eg.
-pip install pandas numpy matplotlib
+pip install pandas
 ```
 ---
 
