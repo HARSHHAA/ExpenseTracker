@@ -109,7 +109,7 @@ def plot_expense_pie_chart(data):
 
 ---
 
-##  Features Implemented
+##  Features:
 
 -  Total Spending Overview (Total, Highest, Lowest)
 -  Category-wise Summary (Sum, Count, Percentage)
